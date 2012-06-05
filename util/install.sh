@@ -3,6 +3,7 @@
 # Mininet install script for Ubuntu (and Debian Lenny)
 # Brandon Heller (brandonh@stanford.edu)
 
+# Ashley's change.
 # Fail on error
 set -e
 set -x
